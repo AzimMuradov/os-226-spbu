@@ -1,4 +1,4 @@
-# os226
+# Operating Systems 226 - SPbU
 
 ## Как сдавать
 
